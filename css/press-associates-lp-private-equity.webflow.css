@@ -1486,6 +1486,7 @@ p {
 }
 
 .form-block-3 {
+  display: none;
   width: 100%;
   margin-top: 1rem;
 }
@@ -1684,7 +1685,9 @@ p {
 }
 
 .text-block-31.offwhite.alignleft {
+  margin-bottom: 26px;
   color: #eaebec;
+  text-align: left;
 }
 
 .social-wrapper {
@@ -1777,6 +1780,11 @@ p {
   border: 1px none #000;
   border-radius: 0px;
   font-weight: 600;
+}
+
+.html-embed {
+  display: none;
+  margin-top: 24px;
 }
 
 @media screen and (min-width: 1280px) {
